@@ -5,6 +5,8 @@
 
 # Bot data (server-specific templates)
 data/
+profiles/
+assets/
 
 # Python
 __pycache__/
